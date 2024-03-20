@@ -1,0 +1,14 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: green;
+}
+body{
+    background-color: green;
+    background-image: url(https://i.pinimg.com/originals/b4/d3/07/b4d3075cdbc51470b0b6c921ab31c616.jpg);
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
